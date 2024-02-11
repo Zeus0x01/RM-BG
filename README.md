@@ -1,5 +1,4 @@
-# RM-BG
-# Background Removal Tool
+# RM-BG | Background Removal Tool
 
 ## Introduction
 
